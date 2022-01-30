@@ -6,9 +6,9 @@
 4. Two process will be started on their own ports i.e client on 3000, server on 8000
 
 Routes:
-/login
-/signup
-/profile
+1. /login
+2. /signup
+3. /profile
 
 working:
 1. User can login or register 
