@@ -15,4 +15,4 @@ working:
 2. User cannot access profile page if he is not logged in
 3. User automatically gets redirected to profile page once loggedin or signed up
 
-Note: config.env file is attached in the server folder so that you can directly run application😊
+Note: config.env file is attached in the server folder so that you can directly run application
