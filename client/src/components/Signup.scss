@@ -1,0 +1,18 @@
+.login-card{
+    text-align: center;
+    background-color: rgba(179, 114, 114, 0.315);
+    width:30%;
+    padding:25px;
+    box-shadow: 5px 5px 10px rgb(161, 161, 161);
+    .login-title{
+        font-size: 36px;
+    }
+    .text-input{
+        display: block;
+        margin:20px 0;
+        width:100%;
+        .MuiOutlinedInput-root{
+            width:100%;
+        }
+    }
+}

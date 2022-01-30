@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,500&display=swap');
+
+.App{
+  background-color: rgb(255, 255, 255);
+  min-height: 100vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;  
+}
+div * {
+  font-family: 'Poppins', sans-serif !important;
+}
